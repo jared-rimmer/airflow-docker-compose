@@ -1,3 +1,6 @@
+![airflow](./images/airflow_logo.png)
+
+
 ## Background
 
 I created this code repository to explore Apache Airflow in greater detail as I read articles online as well as following along with the book [Data Pipelines with Apache Airflow ](https://www.manning.com/books/data-pipelines-with-apache-airflow).
